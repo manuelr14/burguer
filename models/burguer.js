@@ -8,4 +8,4 @@ orm.selectAll("burguers");
 orm.insertOne("Steak", 0);
 
 
-orm.updateOne("BBQ", "1);
+orm.updateOne("BBQ", 1);
